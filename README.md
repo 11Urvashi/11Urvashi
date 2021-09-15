@@ -1,3 +1,5 @@
-- 👋 Hi, I’m Urvashi
-- 👀 I love animals
-
+- 👋 Hi, I am Urvashi
+- 👀 I am interested in try to make dishes and eating😉
+-🌱 I am currently learning mobile development, database management with Cambrian College
+-💞️ I love animals specially dogs!!!! 🐕 
+-📫 You can reach me at bangaurvashi09@gmail.com
